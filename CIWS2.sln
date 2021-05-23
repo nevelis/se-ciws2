@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIWS2", "CIWS2\CIWS2.csproj", "{0A485145-7AE9-4686-B781-EF6DB4679313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A485145-7AE9-4686-B781-EF6DB4679313}.Debug|x64.ActiveCfg = Debug|x64
+		{0A485145-7AE9-4686-B781-EF6DB4679313}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1B0285F-1AFF-4700-866C-6BAC08C57F75}
+	EndGlobalSection
+EndGlobal
